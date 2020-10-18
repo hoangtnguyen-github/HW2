@@ -12,9 +12,28 @@ main {
 footer { background-color: black; 
          color:gold;
          padding: 5px;
+         margin-bottom: 100px;
 }
 
 .content {
     border: solid black 1px;
     
+}
+
+table {
+    padding:10px;
+    border: black;
+    background-color: gold;
+}
+
+.u1 {
+    list-style: square;
+}
+
+img {
+    padding:10px;
+}
+
+.linkDiv {
+    margin-top: 100px;
 }

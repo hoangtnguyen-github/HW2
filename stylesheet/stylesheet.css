@@ -11,8 +11,9 @@ main {
 
 footer { background-color: black; 
          color:gold;
-         padding: 5px;
+         padding: 10px;
          margin-bottom: 100px;
+         margin-top: 20px;
 }
 
 .content {
@@ -23,10 +24,12 @@ footer { background-color: black;
 table {
     padding:10px;
     border: black;
+    border-style: dotted;
     background-color: gold;
+    margin-left: 150px;
 }
 
-.u1 {
+u1 {
     list-style: square;
 }
 
@@ -35,5 +38,5 @@ img {
 }
 
 .linkDiv {
-    margin-top: 100px;
+    margin-top: 50px;
 }

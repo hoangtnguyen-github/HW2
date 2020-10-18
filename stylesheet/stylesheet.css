@@ -1,0 +1,19 @@
+header {
+    padding-left: 5px;
+    background-color: gold;
+    color: black;
+}
+
+main {
+    padding-left: 5px;
+}
+
+footer { background-color: black; 
+         color:gold;
+         padding: 5px;
+}
+
+.content {
+    border: solid black 1px;
+    background-color: gold;
+}

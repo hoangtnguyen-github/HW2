@@ -1,5 +1,6 @@
 header {
     padding-left: 5px;
+    padding-bottom: 10px;
     background-color: gold;
     color: black;
 }
@@ -15,5 +16,5 @@ footer { background-color: black;
 
 .content {
     border: solid black 1px;
-    background-color: gold;
+    
 }
